@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ksniquer/WEB215/Lesson14/static/css/main.d29a5baa.chunk.css",
+    "main.js": "/ksniquer/WEB215/Lesson14/static/js/main.8ae3c0e5.chunk.js",
+    "main.js.map": "/ksniquer/WEB215/Lesson14/static/js/main.8ae3c0e5.chunk.js.map",
+    "runtime-main.js": "/ksniquer/WEB215/Lesson14/static/js/runtime-main.4dce6b32.js",
+    "runtime-main.js.map": "/ksniquer/WEB215/Lesson14/static/js/runtime-main.4dce6b32.js.map",
+    "static/js/2.f941cdbe.chunk.js": "/ksniquer/WEB215/Lesson14/static/js/2.f941cdbe.chunk.js",
+    "static/js/2.f941cdbe.chunk.js.map": "/ksniquer/WEB215/Lesson14/static/js/2.f941cdbe.chunk.js.map",
+    "index.html": "/ksniquer/WEB215/Lesson14/index.html",
+    "precache-manifest.6b4da52bd31443845c0dca72e5f6f38e.js": "/ksniquer/WEB215/Lesson14/precache-manifest.6b4da52bd31443845c0dca72e5f6f38e.js",
+    "service-worker.js": "/ksniquer/WEB215/Lesson14/service-worker.js",
+    "static/css/main.d29a5baa.chunk.css.map": "/ksniquer/WEB215/Lesson14/static/css/main.d29a5baa.chunk.css.map",
+    "static/js/2.f941cdbe.chunk.js.LICENSE.txt": "/ksniquer/WEB215/Lesson14/static/js/2.f941cdbe.chunk.js.LICENSE.txt",
+    "static/media/Karen.png": "/ksniquer/WEB215/Lesson14/static/media/Karen.0c55f3c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dce6b32.js",
+    "static/js/2.f941cdbe.chunk.js",
+    "static/css/main.d29a5baa.chunk.css",
+    "static/js/main.8ae3c0e5.chunk.js"
+  ]
+}
